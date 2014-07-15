@@ -42,7 +42,7 @@ And compile it:
 class="s1">   Compiling</span> hello-world v0.1.0</code></pre>
 
 ```shell
-$ ./target/hello-world
+$ ./target/main
 Hello world!
 ```
 
@@ -88,7 +88,7 @@ Compile it:
 <span style="font-weight: bold" class="s1">   Compiling</span> hello-world v0.1.0</code></pre>
 
 ```shell
-$ ./target/hello-world
+$ ./target/main
 Converting RGB to HSV!
 HSV: HSV { h: 0, s: 1, v: 1 }
 ```
